@@ -1,0 +1,1 @@
+This is an example sentence. Feel free to replace it with your own text. The script will then analyze the words in this file.
